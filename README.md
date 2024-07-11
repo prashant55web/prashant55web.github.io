@@ -1,5 +1,5 @@
 # Bundled-Discount-Plugin 
-<img src= "http://docs.nopaccelerate.com/files/bundled-discount-nop-commerce-plug-in/lib/NewItem2.png" width="1000" height="700"> 
+<img src= "http://docs.nopaccelerate.com/files/bundled-discount-nop-commerce-plug-in/lib/NewItem2.png" width="300" height="300"> 
 
 # **Introduction**
 
@@ -20,6 +20,26 @@ Bundled Discounts Plug-in for nopCommerce enables the store owner to enhance sal
 11. Position your bundles' list on the basis of selected widget zone.
 12. Supported nopCommerce versions 3.70, 3.80, 3.90, 4.00, 4.10 , 4.20, 4.30, 4.40, 4.50, 4.60
 
+# **Version History**
+
+This page contains version history information about plug-in. You can directly go to a version history details by clicking on a version link from below versions.
+
+<details><summary>Version 1.0.0</a></summary>
+
+| Release Date | January 24, 2017 |
+|---| --- |
+| Plug-In Version | 1.0.0 |
+| Supported nopCommerce Version | 3.80 |
+
+**Features:**
+
+1. Create bundles with discount on base product and add product(s) to them.
+2. Display active bundles to customers on product details page.
+3. Add bundle to cart more than once.
+4. Configure attributes for products of the bundle before adding them to cart.
+5. Multi-currency support.
+6. Multi-store support.
+</details>
 
 
 
