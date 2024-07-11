@@ -1,10 +1,11 @@
-# Bundled-Discount-Plugin
+# Bundled-Discount-Plugin 
+<img src= "http://docs.nopaccelerate.com/files/bundled-discount-nop-commerce-plug-in/lib/NewItem2.png" width="1000" height="700"> 
 
-# <img src= "http://docs.nopaccelerate.com/files/bundled-discount-nop-commerce-plug-in/lib/NewItem2.png" width="48" height="48"> **Introduction**
+# **Introduction**
 
 Bundled Discounts Plug-in for nopCommerce enables the store owner to enhance sales by offering discounts on purchase of additional products along with the one that customer wants to buy. The store owner can create bundle(s) on a product (base product) and set discount amount to be levied on purchase of that bundle. Store owner can add discount for bundles and link additional products to base product in each bundle. Customer will get some discount(as per configured discount) on purchase of that bundle. Customer can view bundle offers on product details page of the base product. Customer can directly add to cart bundle products from product detail page and if some bundle products have attributes then plug-in will show pop-up window for attribute configuration.
 
-# <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.videoengager.com%2Ffeatures%2F&psig=AOvVaw2fvvUU4lMtLX6pKy0-_qCL&ust=1720780789143000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMih4KXmnocDFQAAAAAdAAAAABAE" width="48" height="48"> **Features**
+# **Features**
 
 1. Enable/Disable Plug-in functionality.
 2. Enable/Disable dropping bundle related tables when un-installing the plug-in.
