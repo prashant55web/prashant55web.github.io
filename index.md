@@ -358,3 +358,7 @@ look here . ]
 2. Core DLL updated with version 3.0.0.
 </details>
 
+# **Getting started**
+
+This section will guide you to plug-in installation steps, configuration and how to use plug-in.
+
