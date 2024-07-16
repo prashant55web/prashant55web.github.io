@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-
+markdown: GFM
 #setup
 title: Bundled Discount Plugin
 description: Easily offer bundled products with discouns on your store. Bundled Discounts Plugin for nopCommerce enables the store owner to enhance sales by offering discounts on purchase of additional products along with the one that customer wants to buy.
