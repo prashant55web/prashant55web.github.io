@@ -225,3 +225,36 @@ This page contains version history information about plug-in. You can directly g
 
 1. Added support for nopCommerce 4.10.
 </details>
+
+<details>
+  <summary>Version 1.3.1</summary>
+  
+  <table>
+    <tr>
+      <th>Release Date</th>
+      <td>April 05, 2019</td>
+    </tr>
+    <tr>
+      <th>Plug-In Version</th>
+      <td>1.3.1</td>
+    </tr>
+    <tr>
+      <th>Supported nopCommerce Version</th>
+      <td>4.10</td>
+    </tr>
+  </table>
+
+**Bug:**
+
+1. Fixed issue - plugin not support with other plugins
+
+2. Fixed design issue of Store selection option on license register and configure page
+
+3. Exception on bundle product configuration and filtering
+
+4. On bundle popup, product name was not displaying correct
+   
+**Feature:**
+
+1. Added support for root theme for nopCommerce 4.10
+</details>
