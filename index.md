@@ -28,12 +28,12 @@ Bundled Discounts Plug-in for nopCommerce enables the store owner to enhance sal
 
 This page contains version history information about plug-in. You can directly go to a version history details by clicking on a version link from below versions.
 
-<details><summary>Version 1.0.0<></
-
+<details>
+  <summary>Version 1.0.0</summary>
+  
 | Release Date | January 24, 2017 |
 | Plug-In Version | 1.0.0 |
 | Supported nopCommerce Version | 3.80 |
->
 
 **Features:**
 
@@ -43,8 +43,8 @@ This page contains version history information about plug-in. You can directly g
 4. Configure attributes for products of the bundle before adding them to cart.
 5. Multi-currency support.
 6. Multi-store support.
-</details> 
-
+  
+</details>
 
 | Release Date | February 13, 2017 |
 | Plug-In Version | 1.0.1 |
