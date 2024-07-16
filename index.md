@@ -56,39 +56,28 @@ This page contains version history information about plug-in. You can directly g
 6. Multi-store support. 
 </details>
 
-<details><summary>Does work</summary>
-
-| Release Date | January 24, 2017 |
-| Plug-In Version | 1.0.0 |
-| Supported nopCommerce Version | 3.80 |
-
-</details>
-
-
 <details>
   <summary>Version 1.0.0</summary>
   
-| Release Date | January 24, 2017 |
-| Plug-In Version | 1.0.0 |
-| Supported nopCommerce Version | 3.80 |
+  <table>
+    <tr>
+      <th>Release Date</th>
+      <td>February 13, 2017</td>
+    </tr>
+    <tr>
+      <th>Plug-In Version</th>
+      <td>1.0.1</td>
+    </tr>
+    <tr>
+      <th>Supported nopCommerce Version</th>
+      <td>3.80</td>
+    </tr>
+  </table>
 
-**Features:**
+**Bug Fix:**
 
-1. Create bundles with discount on base product and add product(s) to them.
-2. Display active bundles to customers on product details page.
-3. Add bundle to cart more than once.
-4. Configure attributes for products of the bundle before adding them to cart.
-5. Multi-currency support.
-6. Multi-store support.
-  
-</details>
-
-| Release Date | February 13, 2017 |
-| Plug-In Version | 1.0.1 |
-| Supported nopCommerce Version | 3.80 |
-
-Bug Fix:
 1. Wrong calculation of cart total if shipping calculated on checkout page.
+</details>
 
 | Release Date | March 10, 2017 |
 | Plug-In Version | 1.1.0 |
