@@ -282,6 +282,7 @@ This page contains version history information about plug-in. You can directly g
 1. Fixed issue - Added compatibility with RealOnePageCheckout plugin (nopTemplate).
 
 
+
 [Note: We have made plugin compatible with RealOnePageCheckout plugin of nopTemplate, for that you need to make few minor changes, please take a
 
 look here . ]
@@ -289,4 +290,35 @@ look here . ]
 **Feature:**
 
 1. Added support for root theme for nopCommerce 4.10
+</details>
+
+<details>
+  <summary>Version 1.3.3</summary>
+  
+  <table>
+    <tr>
+      <th>Release Date</th>
+      <td>August 31, 2019</td>
+    </tr>
+    <tr>
+      <th>Plug-In Version</th>
+      <td>1.3.3</td>
+    </tr>
+    <tr>
+      <th>Supported nopCommerce Version</th>
+      <td>4.10</td>
+    </tr>
+  </table>
+
+**Bug Fix:**
+
+
+1. Fixed issue - Add to cart fail with nopTemplate theme.
+
+2. Fixed issue - Order total not correct with Euro currency and custom formatting.
+
+   
+**Feature:**
+
+1. Core DLL updated with version 3.0.0.
 </details>
