@@ -46,6 +46,14 @@ This page contains version history information about plug-in. You can directly g
     </tr>
   </table>
   
+**Features:**
+
+1. Create bundles with discount on base product and add product(s) to them.
+2. Display active bundles to customers on product details page.
+3. Add bundle to cart more than once.
+4. Configure attributes for products of the bundle before adding them to cart.
+5. Multi-currency support.
+6. Multi-store support. 
 </details>
 
 <details><summary>Does work</summary>
