@@ -79,9 +79,23 @@ This page contains version history information about plug-in. You can directly g
 1. Wrong calculation of cart total if shipping calculated on checkout page.
 </details>
 
-| Release Date | March 10, 2017 |
-| Plug-In Version | 1.1.0 |
-| Supported nopCommerce Version | 3.80,3.90 |
+<details>
+  <summary>Version 1.1.0</summary>
+  
+  <table>
+    <tr>
+      <th>Release Date</th>
+      <td>March 10, 2017</td>
+    </tr>
+    <tr>
+      <th>Plug-In Version</th>
+      <td>1.1.0</td>
+    </tr>
+    <tr>
+      <th>Supported nopCommerce Version</th>
+      <td>3.80,3.90</td>
+    </tr>
+  </table>
 
 **Features:**
 
@@ -89,18 +103,32 @@ This page contains version history information about plug-in. You can directly g
 2. 0 Discount also possible  
 3. Display total bundle amount on product detail page
 4. Upgrade Plug-in to nopComerce 3.90
+</details>
 
-| Release Date | January 24, 2018 |
-| Plug-In Version | 1.2.0 |
-| Supported nopCommerce Version | 4.0 |
+<details>
+  <summary>Version 1.2.0</summary>
+  
+  <table>
+    <tr>
+      <th>Release Date</th>
+      <td>January 24, 2018</td>
+    </tr>
+    <tr>
+      <th>Plug-In Version</th>
+      <td>1.2.0</td>
+    </tr>
+    <tr>
+      <th>Supported nopCommerce Version</th>
+      <td>4.0</td>
+    </tr>
+  </table>
 
 **Features:**
 
 1. Upgrade Plug-in to nopComerce 4.0.
    
-Bug:
+**Bug:**
+
 1. Manage bundled discount tab --> When we give percentage in decimal it is not display properly.  
 2. Remove the price from Bundle discount modal pop-up.
-
-
-
+</details>
