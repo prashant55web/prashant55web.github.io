@@ -295,22 +295,22 @@ Step:1
 - SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
 - Go to first <tr> row section of table as shown in below image:
 
-<img src= "http://docs.nopaccelerate.com/files/bundled-discount-nop-commerce-plug-in/lib/pic12.png" width="1000" height="800"> 
+<img src= "http://docs.nopaccelerate.com/files/bundled-discount-nop-commerce-plug-in/lib/pic12.png" width="700" height="500"> 
 
 Step:2
 Add id="real-onepage-total" In SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
 
 Go to <tr class="order-total"> </tr> section as shown in below image:   
 
-<img src= "http://docs.nopaccelerate.com/files/bundled-discount-nop-commerce-plug-in/lib/pic2.png" width="1000" height="800"> 
+<img src= "http://docs.nopaccelerate.com/files/bundled-discount-nop-commerce-plug-in/lib/pic2.png" width="700" height="500"> 
 
 Step:3
 
 Go to SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml and add following script in end of the page.
 
 <p class="space">
+  
 <script>
-
 
     //ajax-call on SubTotal value change
 
