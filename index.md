@@ -57,7 +57,7 @@ This page contains version history information about plug-in. You can directly g
 </details>
 
 <details>
-  <summary>Version 1.0.0</summary>
+  <summary>Version 1.0.1</summary>
   
   <table>
     <tr>
