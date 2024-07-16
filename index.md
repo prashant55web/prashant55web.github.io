@@ -40,7 +40,7 @@ This page contains version history information about plug-in. You can directly g
 4. Configure attributes for products of the bundle before adding them to cart.
 5. Multi-currency support.
 6. Multi-store support.
-</details>
+
 
 | Release Date | February 13, 2017 |
 | Plug-In Version | 1.0.1 |
@@ -71,3 +71,16 @@ Bug Fix:
 Bug:
 1. Manage bundled discount tab --> When we give percentage in decimal it is not display properly.  
 2. Remove the price from Bundle discount modal pop-up.
+
+
+<details>
+  <summary>test</summary>
+  <!-- om namah shivaye test -->
+
+| Release Date | March 10, 2017 |
+| Plug-In Version | 1.1.0 |
+| Supported nopCommerce Version | 3.80,3.90 |
+ 
+  - ...
+</details>
+
