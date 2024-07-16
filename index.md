@@ -78,29 +78,20 @@ Bug:
 1. Manage bundled discount tab --> When we give percentage in decimal it is not display properly.  
 2. Remove the price from Bundle discount modal pop-up.
 
+<details><summary>Version Testing</a></summary>
 
+|-----------------+------------+--------------------------------|
+| Release Date |Plug-In Version| Supported nopCommerce Version  |
+|-----------------|:-----------|:------------------------------:|
+| January 24, 2017 |1.0.0 | 3.80                                |
+|-----------------+------------+--------------------------------|
 
+**Features:**
 
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-    
+1. Create bundles with discount on base product and add product(s) to them.
+2. Display active bundles to customers on product details page.
+3. Add bundle to cart more than once.
+4. Configure attributes for products of the bundle before adding them to cart.
+5. Multi-currency support.
+6. Multi-store support.
+</details>
