@@ -132,3 +132,26 @@ This page contains version history information about plug-in. You can directly g
 1. Manage bundled discount tab --> When we give percentage in decimal it is not display properly.  
 2. Remove the price from Bundle discount modal pop-up.
 </details>
+
+<details>
+  <summary>Version 1.1.3</summary>
+  
+  <table>
+    <tr>
+      <th>Release Date</th>
+      <td>March 06, 2018</td>
+    </tr>
+    <tr>
+      <th>Plug-In Version</th>
+      <td>1.1.3</td>
+    </tr>
+    <tr>
+      <th>Supported nopCommerce Version</th>
+      <td>3.70</td>
+    </tr>
+  </table>
+
+**Features:**
+
+1. Added support  to nopComerce 3.70.
+</details>
