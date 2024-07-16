@@ -351,7 +351,7 @@ look here . ]
 
 
    
-**Feature:**
+**Features:**
 
 1. Upgrade plugin to nopCommerce 4.20.
 
