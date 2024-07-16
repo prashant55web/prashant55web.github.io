@@ -309,7 +309,6 @@ Step:3
 Go to SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml and add following script in end of the page.
 
 <p class="space">
-
   
 <script>
 
