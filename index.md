@@ -295,7 +295,7 @@ Step:1
 - SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
 - Go to first <tr> row section of table as shown in below image:
 
-<img src="http://docs.nopaccelerate.com/files/bundled-discount-nop-commerce-plug-in/lib/pic12.png">
+<img src="C:\Users\jai Maa_Paa\Desktop\pic12.png">
 
 Step:2
 Add id="real-onepage-total" In SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
