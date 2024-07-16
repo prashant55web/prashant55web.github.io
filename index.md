@@ -170,7 +170,7 @@ This page contains version history information about plug-in. You can directly g
     </tr>
     <tr>
       <th>Supported nopCommerce Version</th>
-      <td>3.70, 3.80, 3.90,4.00</td>
+      <td>3.70, 3.80, 3.90, 4.00</td>
     </tr>
   </table>
 
@@ -179,3 +179,49 @@ This page contains version history information about plug-in. You can directly g
 1. Update CORE License DLL 
 </details>
 
+<details>
+  <summary>Version 1.2.2</summary>
+  
+  <table>
+    <tr>
+      <th>Release Date</th>
+      <td>March 19, 2018</td>
+    </tr>
+    <tr>
+      <th>Plug-In Version</th>
+      <td>1.2.2</td>
+    </tr>
+    <tr>
+      <th>Supported nopCommerce Version</th>
+      <td>3.70, 3.80, 3.90, 4.00</td>
+    </tr>
+  </table>
+   
+**Bug:**
+
+1. Fixed issue of error log of Null reference exception on customer and order edit event.
+</details>
+
+<details>
+  <summary>Version 1.3.0</summary>
+  
+  <table>
+    <tr>
+      <th>Release Date</th>
+      <td>October 10, 2018</td>
+    </tr>
+    <tr>
+      <th>Plug-In Version</th>
+      <td>1.3.0</td>
+    </tr>
+    <tr>
+      <th>Supported nopCommerce Version</th>
+      <td>4.10</td>
+    </tr>
+  </table>
+
+   
+**Feature:**
+
+1. Added support for nopCommerce 4.10.
+</details>
