@@ -1,5 +1,13 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Hello World
-description: this is test description for our site
+theme: jekyll-theme-cayman
+
+#setup
+title: hello world
+description: this is a test description for our testing
+baseurl: ""
+paginate: 1
+values: 
+  layout: single
+
+# About/contact
+
+Author: Prashant Bhargava
