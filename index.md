@@ -29,8 +29,6 @@ Bundled Discounts Plug-in for nopCommerce enables the store owner to enhance sal
 This page contains version history information about plug-in. You can directly go to a version history details by clicking on a version link from below versions.
 
 | Release Date | January 24, 2017 |
-
-|---| --- |
 | Plug-In Version | 1.0.0 |
 | Supported nopCommerce Version | 3.80 |
 
@@ -45,8 +43,6 @@ This page contains version history information about plug-in. You can directly g
 </details>
 
 | Release Date | February 13, 2017 |
-
-|---| --- |
 | Plug-In Version | 1.0.1 |
 | Supported nopCommerce Version | 3.80 |
 
