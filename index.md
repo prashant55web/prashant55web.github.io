@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Bundled-Discount-Plugin 
-<img src= "https://www.nopcommerce.com/images/thumbs/0005968_bundled-discounts-buy-together-plugin.png" width="300" height="300"> 
+<img src= "https://shop.nopaccelerate.com/images/thumbs/0001189_bundled-discounts-plugin_570.png" width="300" height="300"> 
 
 # **Introduction**
 
