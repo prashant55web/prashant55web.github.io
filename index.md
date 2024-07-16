@@ -30,7 +30,9 @@ This page contains version history information about plug-in. You can directly g
 
 <details><summary>Does work</summary>
 
-[hi](https://hello.ca)
+| Release Date | January 24, 2017 |
+| Plug-In Version | 1.0.0 |
+| Supported nopCommerce Version | 3.80 |
 
 </details>
 
