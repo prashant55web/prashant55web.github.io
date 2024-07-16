@@ -155,3 +155,27 @@ This page contains version history information about plug-in. You can directly g
 
 1. Added support  to nopComerce 3.70.
 </details>
+
+<details>
+  <summary>Version 1.2.1</summary>
+  
+  <table>
+    <tr>
+      <th>Release Date</th>
+      <td>March 13, 2018</td>
+    </tr>
+    <tr>
+      <th>Plug-In Version</th>
+      <td>1.2.1</td>
+    </tr>
+    <tr>
+      <th>Supported nopCommerce Version</th>
+      <td>3.70, 3.80, 3.90,4.00</td>
+    </tr>
+  </table>
+
+**Features:**
+
+1. Update CORE License DLL 
+</details>
+
