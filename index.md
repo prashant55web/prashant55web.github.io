@@ -317,8 +317,44 @@ look here . ]
 
 2. Fixed issue - Order total not correct with Euro currency and custom formatting.
 
+
    
-**Feature:**
+**Features:**
 
 1. Core DLL updated with version 3.0.0.
 </details>
+
+<details>
+  <summary>Version 1.4.0</summary>
+  
+  <table>
+    <tr>
+      <th>Release Date</th>
+      <td>August 06, 2019</td>
+    </tr>
+    <tr>
+      <th>Plug-In Version</th>
+      <td>1.4.0</td>
+    </tr>
+    <tr>
+      <th>Supported nopCommerce Version</th>
+      <td>4.20</td>
+    </tr>
+  </table>
+
+**Bug Fix:**
+
+
+1. Fixed issue - Add to cart fail with nopTemplate theme.
+
+2. Fixed design - Order total not correct with Euro currency and custom formatting.
+
+
+   
+**Feature:**
+
+1. Upgrade plugin to nopCommerce 4.20.
+
+2. Core DLL updated with version 3.0.0.
+</details>
+
