@@ -72,15 +72,12 @@ Bug:
 1. Manage bundled discount tab --> When we give percentage in decimal it is not display properly.  
 2. Remove the price from Bundle discount modal pop-up.
 
-
 <details>
-  <summary>test</summary>
-  <!-- om namah shivaye test -->
-
-| Release Date | March 10, 2017 |
-| Plug-In Version | 1.1.0 |
-| Supported nopCommerce Version | 3.80,3.90 |
- 
+  <summary>Dropdown Title</summary>
+  <!-- Dropdown contents go here -->
+  - Item 1
+  - Item 2
   - ...
 </details>
+
 
