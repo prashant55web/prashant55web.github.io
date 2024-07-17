@@ -564,6 +564,8 @@ If you are logged in as vendor, the product you are searching for is not your pr
 If none of the above conditions apply to your product, you can get help from our team. Please refer How to get help.
 </details>
 
+**Scenarios of use**
+
 <details>
 <summary>Scenarios of use</summary>
 **Scenarios of use**
