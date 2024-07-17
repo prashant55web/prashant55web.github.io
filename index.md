@@ -280,12 +280,8 @@ This page contains version history information about plug-in. You can directly g
 **Bug Fix:**
 
 1. Fixed issue - Added compatibility with RealOnePageCheckout plugin (nopTemplate).
-
-
-
 [Note: We have made plugin compatible with RealOnePageCheckout plugin of nopTemplate, for that you need to make few minor changes, please take a
-<details>
-  <summary>look here . ]</summary>
+<details><summary>look here . ]</summary>
 
 **Feature:**
 
@@ -316,8 +312,6 @@ This page contains version history information about plug-in. You can directly g
 1. Fixed issue - Add to cart fail with nopTemplate theme.
 
 2. Fixed issue - Order total not correct with Euro currency and custom formatting.
-
-
    
 **Features:**
 
