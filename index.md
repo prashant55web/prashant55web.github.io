@@ -513,10 +513,10 @@ When you open product edit page, you'll see Manage Bundles tab as shown below.
 ![image](https://github.com/user-attachments/assets/a3137cec-9c61-4ff7-89b4-c4da2ce2533b)
 
 When you click on the tab, you'll be displayed a page where you can manage your bundles.
-<summary>Manage Bundles</summary>
 </details>
 
-<Details><summary>Manage Bundles</summary>
+<Details>
+<summary>Manage Bundles</summary>
 **Manage Bundles**
 As you see in below image you can add multiple bundles for a base product.
 
