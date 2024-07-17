@@ -516,7 +516,8 @@ When you click on the tab, you'll be displayed a page where you can manage your 
 </details>
 
 <Details>
-<summary>Manage Bundles</summary>
+  <summary>Manage Bundles</summary>
+
 **Manage Bundles**
 As you see in below image you can add multiple bundles for a base product.
 
