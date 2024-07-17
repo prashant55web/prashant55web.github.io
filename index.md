@@ -515,8 +515,8 @@ When you open product edit page, you'll see Manage Bundles tab as shown below.
 When you click on the tab, you'll be displayed a page where you can manage your bundles.
 </details>
 
-<Details>
-  <summary>Manage Bundles</summary>
+<details>
+<summary>Manage Bundles</summary>
 
 **Manage Bundles**
 As you see in below image you can add multiple bundles for a base product.
@@ -535,34 +535,36 @@ Is Active defines whether a bundle is in active state or not. If not in active s
 You can configure bundle products by clicking on the link that says Reference Products for a bundle.
 </details>
 
-<details>
-<summary>Bundled Products list</summary>
-You can view the list of products added to the bundle here. Display Order defines the sequence in which the products will be displayed inside a bundle on product details page. You can edit this field as per your choice. Base product will be displayed first and the remaining products - as per the display order.
-![image](https://github.com/user-attachments/assets/77990b2b-d41b-4453-a63f-9a2512d0becf)
+  <details>
+  <summary>Bundled Products</summary>
   
-You can add multiple product to the product list by clicking on the "Add product" button.
-
-<details>
-<summary>Add bundled Products</summary>
+  # **Bundled Products**
+  You can view the list of products added to the bundle here. Display Order defines the sequence in which the products will be displayed inside a bundle on product details page. You can edit this field as per your choice. Base product will be displayed first and the remaining products - as per the display order.
+  ![image](https://github.com/user-attachments/assets/77990b2b-d41b-4453-a63f-9a2512d0becf)
+    
+  You can add multiple product to the product list by clicking on the "Add product" button.
   
-**Add bundled products**
-You can add one or more products to the bundle by checking the check-box(es) of the product(s) you want to add.
-![image](https://github.com/user-attachments/assets/bb3de732-0482-4e52-aa97-b8391a28cf08)
-
-You can filter the products by the fields provided above the list.
-
-If you cannot view your product in the list, please check if the product agrees to any one of the following conditions :
-
-It is already added to the bundle.
-It is the base product of the bundle.
-It is a grouped product.
-It is a gift card.
-Customer Enters Price is enabled for the product.
-If you are logged in as vendor, the product you are searching for is not your product.
-
-
-If none of the above conditions apply to your product, you can get help from our team. Please refer How to get help.
-</details>
+  <details>
+  <summary>Add bundled Products</summary>
+    
+  **Add bundled products**
+  You can add one or more products to the bundle by checking the check-box(es) of the product(s) you want to add.
+  ![image](https://github.com/user-attachments/assets/bb3de732-0482-4e52-aa97-b8391a28cf08)
+  
+  You can filter the products by the fields provided above the list.
+  
+  If you cannot view your product in the list, please check if the product agrees to any one of the following conditions :
+  
+  It is already added to the bundle.
+  It is the base product of the bundle.
+  It is a grouped product.
+  It is a gift card.
+  Customer Enters Price is enabled for the product.
+  If you are logged in as vendor, the product you are searching for is not your product.
+  
+  
+  If none of the above conditions apply to your product, you can get help from our team. Please refer How to get help.
+  </details>
 
 **Scenarios of use**
 
