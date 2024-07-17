@@ -535,8 +535,8 @@ Is Active defines whether a bundle is in active state or not. If not in active s
 You can configure bundle products by clicking on the link that says Reference Products for a bundle.
 </details>
 
-  <details>
-  <summary>Bundled Products</summary>
+<details>
+<summary>Bundled Products</summary>
   
 **Bundled Products**
 
