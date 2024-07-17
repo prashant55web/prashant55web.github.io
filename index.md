@@ -568,7 +568,6 @@ If you are logged in as vendor, the product you are searching for is not your pr
 If none of the above conditions apply to your product, you can get help from our team. Please refer How to get help.
 </details>
 </details>
-</details>
 
 <details>
 <summary>Scenarios of use</summary>
@@ -577,7 +576,7 @@ If none of the above conditions apply to your product, you can get help from our
 This section will give you a scenarios of use for Bundled Discounts plug-in.
 </details>
 <details>
-<summary>Display bundle list</summary>
+<summary>Display Bundle list</summary>
 Display Bundle List
 As you see in below image you can add bundle to the cart by clicking on ADD TO CART bundle below your choice of bundle. You can add multiple or same bundles to the cart more than once.
 ![image](https://github.com/user-attachments/assets/1d930ece-b629-47fd-a249-4ad46558ffea)
