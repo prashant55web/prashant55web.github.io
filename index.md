@@ -481,7 +481,16 @@ Download plug-in object code and put it at your plug-ins folder then follow nopC
 ![image](https://github.com/user-attachments/assets/7f420da5-52e5-40e1-8222-343ddec73fe2)
 </details>
 
-Configuration
+<details>
+<summary>Configuration</summary>
 
-Scenarios of use
+Configuration
+This section will guide you for how to configure plug-in.
+General Tab Configuration
+
+Bundle Configuration
+
+</details>
+
+
 
