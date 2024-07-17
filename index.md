@@ -203,7 +203,7 @@ This page contains version history information about plug-in. You can directly g
 </details>
 
 <details>
-  <summary>Version 1.3.0</summary>
+<summary>Version 1.3.0</summary>
   
   <table>
     <tr>
@@ -219,7 +219,6 @@ This page contains version history information about plug-in. You can directly g
       <td>4.10</td>
     </tr>
   </table>
-
    
 **Feature:**
 
@@ -227,7 +226,7 @@ This page contains version history information about plug-in. You can directly g
 </details>
 
 <details>
-  <summary>Version 1.3.1</summary>
+<summary>Version 1.3.1</summary>
   
   <table>
     <tr>
@@ -247,11 +246,8 @@ This page contains version history information about plug-in. You can directly g
 **Bug:**
 
 1. Fixed issue - plugin not support with other plugins
-
 2. Fixed design issue of Store selection option on license register and configure page
-
 3. Exception on bundle product configuration and filtering
-
 4. On bundle popup, product name was not displaying correct
    
 **Feature:**
@@ -260,7 +256,7 @@ This page contains version history information about plug-in. You can directly g
 </details>
 
 <details>
-  <summary>Version 1.3.2</summary>
+<summary>Version 1.3.2</summary>
   
   <table>
     <tr>
@@ -280,16 +276,12 @@ This page contains version history information about plug-in. You can directly g
 **Bug Fix:**
 
 1. Fixed issue - Added compatibility with RealOnePageCheckout plugin (nopTemplate).
-[Note: We have made plugin compatible with RealOnePageCheckout plugin of nopTemplate, for that you need to make few minor changes, please take a
-<details><summary>look here . ]</summary>
+[Note: We have made plugin compatible with RealOnePageCheckout plugin of nopTemplate, for that you need to make few minor changes.
 
-**Feature:**
-
-1. Added support for root theme for nopCommerce 4.10
 </details>
 
 <details>
-  <summary>Version 1.3.3</summary>
+<summary>Version 1.3.3</summary>
   
   <table>
     <tr>
@@ -308,9 +300,7 @@ This page contains version history information about plug-in. You can directly g
 
 **Bug Fix:**
 
-
 1. Fixed issue - Add to cart fail with nopTemplate theme.
-
 2. Fixed issue - Order total not correct with Euro currency and custom formatting.
    
 **Features:**
@@ -338,18 +328,18 @@ This page contains version history information about plug-in. You can directly g
 
 **Bug Fix:**
 
-
 1. Fixed issue - Add to cart fail with nopTemplate theme.
 2. Fixed design - Order total not correct with Euro currency and custom formatting.
-
-   
+ 
 **Features:**
 
 1. Upgrade plugin to nopCommerce 4.20.
 2. Core DLL updated with version 3.0.0.
 </details>
 
-**Getting started**
+<details><summary>Getting Started</summary>
+  
+**Getting Started**
 
 This section will guide you to plug-in installation steps, configuration and how to use plug-in.
 <details>
@@ -383,14 +373,13 @@ You can choose to delete bundle related data from the database when you un-insta
 
 </details>
 
-
-
 <details>
 <summary>Scenarios of use</summary>
 
 **Scenarios of use**
 
 This section will give you a scenarios of use for Bundled Discounts plug-in.
+</details>
 </details>
 
 # **How to get help**
