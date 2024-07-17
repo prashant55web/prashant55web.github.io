@@ -9,7 +9,7 @@ layout: default
 
 Bundled Discounts Plug-in for nopCommerce enables the store owner to enhance sales by offering discounts on purchase of additional products along with the one that customer wants to buy. The store owner can create bundle(s) on a product (base product) and set discount amount to be levied on purchase of that bundle. Store owner can add discount for bundles and link additional products to base product in each bundle. Customer will get some discount(as per configured discount) on purchase of that bundle. Customer can view bundle offers on product details page of the base product. Customer can directly add to cart bundle products from product detail page and if some bundle products have attributes then plug-in will show pop-up window for attribute configuration.
 
-# **Features**
+**Features**
 
 1. Enable/Disable Plug-in functionality.
 2. Enable/Disable dropping bundle related tables when un-installing the plug-in.
@@ -24,7 +24,7 @@ Bundled Discounts Plug-in for nopCommerce enables the store owner to enhance sal
 11. Position your bundles' list on the basis of selected widget zone.
 12. Supported nopCommerce versions 3.70, 3.80, 3.90, 4.00, 4.10 , 4.20, 4.30, 4.40, 4.50, 4.60
 
-# **Version History**
+**Version History**
 
 This page contains version history information about plug-in. You can directly go to a version history details by clicking on a version link from below versions.
 
@@ -286,29 +286,166 @@ This page contains version history information about plug-in. You can directly g
 [Note: We have made plugin compatible with RealOnePageCheckout plugin of nopTemplate, for that you need to make few minor changes, please take a
 <details>
   <summary>look here . ]</summary>
+
+**Feature:**
+
+1. Added support for root theme for nopCommerce 4.10
+</details>
+
+<details>
+  <summary>Version 1.3.3</summary>
   
-**Make Bundled discount compatible with RealOnePageCheckout plugin(nopTemplate)**
+  <table>
+    <tr>
+      <th>Release Date</th>
+      <td>August 31, 2019</td>
+    </tr>
+    <tr>
+      <th>Plug-In Version</th>
+      <td>1.3.3</td>
+    </tr>
+    <tr>
+      <th>Supported nopCommerce Version</th>
+      <td>4.10</td>
+    </tr>
+  </table>
+
+**Bug Fix:**
+
+
+1. Fixed issue - Add to cart fail with nopTemplate theme.
+
+2. Fixed issue - Order total not correct with Euro currency and custom formatting.
+
+
+   
+**Features:**
+
+1. Core DLL updated with version 3.0.0.
+</details>
+
+<details>
+  <summary>Version 1.4.0</summary>
+  
+  <table>
+    <tr>
+      <th>Release Date</th>
+      <td>August 06, 2019</td>
+    </tr>
+    <tr>
+      <th>Plug-In Version</th>
+      <td>1.4.0</td>
+    </tr>
+    <tr>
+      <th>Supported nopCommerce Version</th>
+      <td>4.20</td>
+    </tr>
+  </table>
+
+**Bug Fix:**
+
+
+1. Fixed issue - Add to cart fail with nopTemplate theme.
+2. Fixed design - Order total not correct with Euro currency and custom formatting.
+
+   
+**Features:**
+
+1. Upgrade plugin to nopCommerce 4.20.
+2. Core DLL updated with version 3.0.0.
+</details>
+
+**Getting started**
+
+This section will guide you to plug-in installation steps, configuration and how to use plug-in.
+<details>
+<summary>Installation & License</summary>
+
+**Installation & License**
+
+Download plug-in object code and put it at your plug-ins folder then follow nopCommerce standard plug-in installation procedure to install plug-in.   Bundled Discounts plug-in is available under “Promotions” group on local plug-ins page. Once plug-in is installed go to your nopCommerce admin panel, and go to **Configuration → Plug-ins → Local plug-ins → Bundled Discounts plug-in.** It will ask you to enter your license key as shown in figure below, enter license key which you received on your registered email after purchasing this plug-in from our website.
+
+![image](https://github.com/user-attachments/assets/7f420da5-52e5-40e1-8222-343ddec73fe2)
+</details>
+
+<details>
+<summary>Configuration</summary>
+
+**Configuration**
+
+This section will guide you for how to configure plug-in.
+
+<summary>General Tab Configuration</summary>
+
+
+You cannot use plug-in functionality unless you enable it.
+
+You can enable/disable plug-in from general tab of plug-in configure page.
+Bundle title will be displayed when displaying bundles on product details page.
+Widget Zone will define part of product details page where your bundles will be displayed.
+You can choose to delete bundle related data from the database when you un-install the plug-in.
+
+![image](https://github.com/user-attachments/assets/4a034651-7acf-4e6c-b033-a7bd58e250c8)
+
+</details>
+
+
+
+<details>
+<summary>Scenarios of use</summary>
+
+**Scenarios of use**
+
+This section will give you a scenarios of use for Bundled Discounts plug-in.
+</details>
+
+# **How to get help**
+
+Please drop us an email at support@nopaccelerate.com with issues you're facing.
+
+Please include below details when you're writing mail us.
+
+1. Your Order Number:
+
+2. Store's nopCommerce version:
+
+3. nopAccelerate Plus Plugin version:
+
+4. Store Admin credentials (if possible):
+
+5. Reproduce steps:
+
+6. Is there any customization in your store:
+
+It will helpful if you attach images/screen-cast, so it will helpfully for reproduce issue at our end.
+
+You can also email us steps for generating issue at our end. For that you need to follow below steps.
+
+* Open “psr.exe” from “Run” in your windows operating system.
+* Click on “Start Record” button and do your steps to produce your issue.
+* Click “Stop Record” button once you complete recording steps. It will ask you to save a zip file.
+* Send us saved zip file via email.
+
+# **Make Bundled discount compatible with RealOnePageCheckout plugin(nopTemplate)**
+
 To make Bundled discount plugin compatible with RealOnePageCheckout Plugin of nopTemplate you need to follow few steps as below:
 
 Step:1
-- Add id="sub-total" In
-- SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
+- Add id="sub-total" In SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
 - Go to first <tr> row section of table as shown in below image:
 
 ![image](https://github.com/user-attachments/assets/c4c5ffa7-d5eb-42f0-9351-630d1b1dae34)
 
 
 Step:2
-Add id="real-onepage-total" In SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
-
-Go to <tr class="order-total"> </tr> section as shown in below image:   
+- Add id="real-onepage-total" In SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
+- Go to <tr class="order-total"> </tr> section as shown in below image:   
 
 ![image](https://github.com/user-attachments/assets/dc163217-48b1-4d5a-9502-5d693e200c17)
 
 
 Step:3
-
-Go to SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml and add following script in end of the page.
+- Go to SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml and add following script in end of the page.
 
 <p class="space"> 
 <script>
@@ -395,149 +532,3 @@ Go to SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\Orde
 
 </script>
 </p>
-</details>
-
-
-**Feature:**
-
-1. Added support for root theme for nopCommerce 4.10
-</details>
-
-<details>
-  <summary>Version 1.3.3</summary>
-  
-  <table>
-    <tr>
-      <th>Release Date</th>
-      <td>August 31, 2019</td>
-    </tr>
-    <tr>
-      <th>Plug-In Version</th>
-      <td>1.3.3</td>
-    </tr>
-    <tr>
-      <th>Supported nopCommerce Version</th>
-      <td>4.10</td>
-    </tr>
-  </table>
-
-**Bug Fix:**
-
-
-1. Fixed issue - Add to cart fail with nopTemplate theme.
-
-2. Fixed issue - Order total not correct with Euro currency and custom formatting.
-
-
-   
-**Features:**
-
-1. Core DLL updated with version 3.0.0.
-</details>
-
-<details>
-  <summary>Version 1.4.0</summary>
-  
-  <table>
-    <tr>
-      <th>Release Date</th>
-      <td>August 06, 2019</td>
-    </tr>
-    <tr>
-      <th>Plug-In Version</th>
-      <td>1.4.0</td>
-    </tr>
-    <tr>
-      <th>Supported nopCommerce Version</th>
-      <td>4.20</td>
-    </tr>
-  </table>
-
-**Bug Fix:**
-
-
-1. Fixed issue - Add to cart fail with nopTemplate theme.
-
-2. Fixed design - Order total not correct with Euro currency and custom formatting.
-
-
-   
-**Features:**
-
-1. Upgrade plugin to nopCommerce 4.20.
-
-2. Core DLL updated with version 3.0.0.
-</details>
-
-# **Getting started**
-
-This section will guide you to plug-in installation steps, configuration and how to use plug-in.
-<details>
-<summary>Installation & License</summary>
-
-**Installation & License**
-
-Download plug-in object code and put it at your plug-ins folder then follow nopCommerce standard plug-in installation procedure to install plug-in.   Bundled Discounts plug-in is available under “Promotions” group on local plug-ins page. Once plug-in is installed go to your nopCommerce admin panel, and go to **Configuration → Plug-ins → Local plug-ins → Bundled Discounts plug-in.** It will ask you to enter your license key as shown in figure below, enter license key which you received on your registered email after purchasing this plug-in from our website.
-
-![image](https://github.com/user-attachments/assets/7f420da5-52e5-40e1-8222-343ddec73fe2)
-</details>
-
-<details>
-<summary>Configuration</summary>
-
-**Configuration**
-
-This section will guide you for how to configure plug-in.
-
-<summary>General Tab Configuration</summary>
-
-
-You cannot use plug-in functionality unless you enable it.
-
-You can enable/disable plug-in from general tab of plug-in configure page.
-Bundle title will be displayed when displaying bundles on product details page.
-Widget Zone will define part of product details page where your bundles will be displayed.
-You can choose to delete bundle related data from the database when you un-install the plug-in.
-
-![image](https://github.com/user-attachments/assets/4a034651-7acf-4e6c-b033-a7bd58e250c8)
-
-</details>
-
-
-
-<details>
-<summary>Scenarios of use</summary>
-
-**Scenarios of use**
-
-This section will give you a scenarios of use for Bundled Discounts plug-in.
-</details>
-
-# <details><summary>How to get help</summary>
-
-**How to get help**
-
-Please drop us an email at support@nopaccelerate.com with issues you're facing.
-
-Please include below details when you're writing mail us.
-
-1. Your Order Number:
-
-2. Store's nopCommerce version:
-
-3. nopAccelerate Plus Plugin version:
-
-4. Store Admin credentials (if possible):
-
-5. Reproduce steps:
-
-6. Is there any customization in your store:
-
-It will helpful if you attach images/screen-cast, so it will helpfully for reproduce issue at our end.
-
-You can also email us steps for generating issue at our end. For that you need to follow below steps.
-
-Open “psr.exe” from “Run” in your windows operating system.
-Click on “Start Record” button and do your steps to produce your issue.
-Click “Stop Record” button once you complete recording steps. It will ask you to save a zip file.
-Send us saved zip file via email.
