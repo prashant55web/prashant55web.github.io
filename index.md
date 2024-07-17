@@ -350,6 +350,7 @@ Download plug-in object code and put it at your plug-ins folder then follow nopC
 
 <details><summary>Configuration</summary>
 
+
 This section will guide you for how to configure plug-in.
 
 <details><summary>General Tab Configuration</summary>
@@ -429,6 +430,7 @@ If you cannot view Manage bundles tab on Product Edit page, please check if the 
 <details>
 <summary>Scenarios of use</summary>
 
+
 This section will give you a scenarios of use for Bundled Discounts plug-in.
 <details><summary>Display Bundle List</summary>
 
@@ -466,7 +468,9 @@ Any required attribute if left unset, will show you an error while all attribute
 The discount applied on your order from the selected bundles will be shown on cart page, on Confirm Order page and on Order Details page(after placing the order) as below:
 
 ![image](https://github.com/user-attachments/assets/7ebe9bd4-53db-4410-8934-3453f3755315)
+
 ![image](https://github.com/user-attachments/assets/ef8009c8-8207-42ee-b973-133711b88c4f)
+
 ![image](https://github.com/user-attachments/assets/b370b583-c032-4e8e-869b-c90694e0a1ca)
   
 </details>
