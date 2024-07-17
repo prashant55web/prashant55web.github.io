@@ -516,7 +516,8 @@ When you click on the tab, you'll be displayed a page where you can manage your 
 <summary>Manage Bundles</summary>
 </details>
 
-<details><**Manage Bundles**>
+<Manage Bundles>
+**Manage Bundles**
 As you see in below image you can add multiple bundles for a base product.
 
 ![image](https://github.com/user-attachments/assets/573609d6-94ec-4569-9578-00a00dedc13b)
@@ -538,13 +539,12 @@ You can configure bundle products by clicking on the link that says Reference Pr
 You can view the list of products added to the bundle here. Display Order defines the sequence in which the products will be displayed inside a bundle on product details page. You can edit this field as per your choice. Base product will be displayed first and the remaining products - as per the display order.
 ![image](https://github.com/user-attachments/assets/77990b2b-d41b-4453-a63f-9a2512d0becf)
   
-You can add multiple product to the product list by clicking on the **Add product** button.
-Add Product
+You can add multiple product to the product list by clicking on the "Add product" button.
 
 <details>
 <summary>Add bundled Products</summary>
   
-Add bundled products
+**Add bundled products**
 You can add one or more products to the bundle by checking the check-box(es) of the product(s) you want to add.
 ![image](https://github.com/user-attachments/assets/bb3de732-0482-4e52-aa97-b8391a28cf08)
 
