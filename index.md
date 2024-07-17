@@ -486,6 +486,7 @@ Download plug-in object code and put it at your plug-ins folder then follow nopC
 
 Configuration
 This section will guide you for how to configure plug-in.
+
 General Tab Configuration
 
 Bundle Configuration
