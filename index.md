@@ -473,7 +473,13 @@ Go to SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\Orde
 
 This section will guide you to plug-in installation steps, configuration and how to use plug-in.
 
-Installation & License
+<summary>Installation & License</summary>
+
+**Installation & Licensing**
+Download plug-in object code and put it at your plug-ins folder then follow nopCommerce standard plug-in installation procedure to install plug-in.   Bundled Discounts plug-in is available under “Promotions” group on local plug-ins page. Once plug-in is installed go to your nopCommerce admin panel, and go to **Configuration → Plug-ins → Local plug-ins → Bundled Discounts plug-in.** It will ask you to enter your license key as shown in figure below, enter license key which you received on your registered email after purchasing this plug-in from our website.
+
+![image](https://github.com/user-attachments/assets/7f420da5-52e5-40e1-8222-343ddec73fe2)
+
 
 Configuration
 
