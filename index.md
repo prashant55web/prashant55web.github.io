@@ -502,12 +502,11 @@ You can choose to delete bundle related data from the database when you un-insta
 
 ![image](https://github.com/user-attachments/assets/4a034651-7acf-4e6c-b033-a7bd58e250c8)
 
-</details>
-
 <details>
 <summary>Bundle Configuration</summary>
 
 **Bundle Configuration**
+
 When you open product edit page, you'll see Manage Bundles tab as shown below.
 
 ![image](https://github.com/user-attachments/assets/a3137cec-9c61-4ff7-89b4-c4da2ce2533b)
@@ -519,6 +518,7 @@ When you click on the tab, you'll be displayed a page where you can manage your 
 <summary>Manage Bundles</summary>
 
 **Manage Bundles**
+
 As you see in below image you can add multiple bundles for a base product.
 
 ![image](https://github.com/user-attachments/assets/573609d6-94ec-4569-9578-00a00dedc13b)
@@ -566,8 +566,7 @@ If you are logged in as vendor, the product you are searching for is not your pr
 If none of the above conditions apply to your product, you can get help from our team. Please refer How to get help.
 </details>
 </details>
-
-**Scenarios of use**
+</details>
 
 <details>
 <summary>Scenarios of use</summary>
