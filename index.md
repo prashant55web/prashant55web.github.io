@@ -485,13 +485,11 @@ Download plug-in object code and put it at your plug-ins folder then follow nopC
 <details>
 <summary>Configuration</summary>
 
-**Configuration**
 
 This section will guide you for how to configure plug-in.
 
 <summary>General Tab Configuration</summary>
 
-**General Tab Configuration**
 
 You cannot use plug-in functionality unless you enable it.
 
@@ -571,9 +569,11 @@ If none of the above conditions apply to your product, you can get help from our
 
 <details>
 <summary>Scenarios of use</summary>
-  
+
 **Scenarios of use**
 
+
+</details>
 This section will give you a scenarios of use for Bundled Discounts plug-in.
 </details>
 <details>
@@ -619,7 +619,6 @@ Any required attribute if left unset, will show you an error while all attribute
 The discount applied on your order from the selected bundles will be shown on cart page, on Confirm Order page and on Order Details page(after placing the order) as below:
 
 ![image](https://github.com/user-attachments/assets/eeabc2bd-af69-4970-b480-b595dd1decbb)
-</details>
 
 # **How to get help**
 
