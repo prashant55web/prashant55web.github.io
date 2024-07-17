@@ -512,7 +512,3 @@ You can choose to delete bundle related data from the database when you un-insta
 
 This section will give you a scenarios of use for Bundled Discounts plug-in.
 </details>
-<details>
-<summary>Display Bundle list</summary>
-
-</details>
