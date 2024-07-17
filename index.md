@@ -485,6 +485,7 @@ Download plug-in object code and put it at your plug-ins folder then follow nopC
 <details>
 <summary>Configuration</summary>
 
+**Configuration**
 
 This section will guide you for how to configure plug-in.
 
@@ -542,10 +543,11 @@ You can view the list of products added to the bundle here. Display Order define
 ![image](https://github.com/user-attachments/assets/77990b2b-d41b-4453-a63f-9a2512d0becf)
   
 You can add multiple product to the product list by clicking on the "Add product" button.
+</details>
 
 <details>
 <summary>Add bundled Products</summary>
-  
+
 **Add bundled products**
 
 You can add one or more products to the bundle by checking the check-box(es) of the product(s) you want to add.
@@ -564,7 +566,6 @@ If you are logged in as vendor, the product you are searching for is not your pr
 
 
 If none of the above conditions apply to your product, you can get help from our team. Please refer How to get help.
-</details>
 </details>
 
 <details>
