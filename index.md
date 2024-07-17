@@ -539,6 +539,7 @@ You can configure bundle products by clicking on the link that says Reference Pr
   <summary>Bundled Products</summary>
   
 **Bundled Products**
+
 You can view the list of products added to the bundle here. Display Order defines the sequence in which the products will be displayed inside a bundle on product details page. You can edit this field as per your choice. Base product will be displayed first and the remaining products - as per the display order.
 ![image](https://github.com/user-attachments/assets/77990b2b-d41b-4453-a63f-9a2512d0becf)
   
@@ -548,6 +549,7 @@ You can add multiple product to the product list by clicking on the "Add product
 <summary>Add bundled Products</summary>
   
 **Add bundled products**
+
 You can add one or more products to the bundle by checking the check-box(es) of the product(s) you want to add.
 ![image](https://github.com/user-attachments/assets/bb3de732-0482-4e52-aa97-b8391a28cf08)
 
@@ -571,8 +573,9 @@ If none of the above conditions apply to your product, you can get help from our
 <details>
 <summary>Scenarios of use</summary>
 **Scenarios of use**
-This section will give you a scenarios of use for Bundled Discounts plug-in.
 
+This section will give you a scenarios of use for Bundled Discounts plug-in.
+</details>
 <details>
 <summary>Display bundle list</summary>
 Display Bundle List
@@ -581,19 +584,11 @@ As you see in below image you can add bundle to the cart by clicking on ADD TO C
 
 When you click on ADD TO CART button and if any of your products linked with the bundle has any configurable property(attribute) to be selected, a pop-up window will appear asking you to select attributes of your choice.
 
-
-
 Attribute Pop-up
-
-
 
 You can view the discounts applied on the cart as well as on order summary pages.
 
-
-
 Bundle Discount Summary
-
-
 
 If you cannot view your bundles on product details page, please check if your bundle has products added to it, your bundle is in active state and also the widget for Bundled Discounts plug-in is enabled as shown below:
 
