@@ -475,6 +475,7 @@ This section will guide you to plug-in installation steps, configuration and how
 <details>
 <summary>Installation & License</summary>
 
+**Installation & License**
 
 Download plug-in object code and put it at your plug-ins folder then follow nopCommerce standard plug-in installation procedure to install plug-in.   Bundled Discounts plug-in is available under “Promotions” group on local plug-ins page. Once plug-in is installed go to your nopCommerce admin panel, and go to **Configuration → Plug-ins → Local plug-ins → Bundled Discounts plug-in.** It will ask you to enter your license key as shown in figure below, enter license key which you received on your registered email after purchasing this plug-in from our website.
 
@@ -484,14 +485,288 @@ Download plug-in object code and put it at your plug-ins folder then follow nopC
 <details>
 <summary>Configuration</summary>
 
-Configuration
+**Configuration**
+
 This section will guide you for how to configure plug-in.
 
-General Tab Configuration
+<summary>General Tab Configuration</summary>
 
-Bundle Configuration
+**General Tab Configuration**
+
+You cannot use plug-in functionality unless you enable it.
+
+You can enable/disable plug-in from general tab of plug-in configure page.
+Bundle title will be displayed when displaying bundles on product details page.
+Widget Zone will define part of product details page where your bundles will be displayed.
+You can choose to delete bundle related data from the database when you un-install the plug-in.
+
+![image](https://github.com/user-attachments/assets/4a034651-7acf-4e6c-b033-a7bd58e250c8)
 
 </details>
 
+<details>
+<summary>Bundle Configuration</summary>
+
+**Bundle Configuration**
+When you open product edit page, you'll see Manage Bundles tab as shown below.
+
+![image](https://github.com/user-attachments/assets/a3137cec-9c61-4ff7-89b4-c4da2ce2533b)
+
+When you click on the tab, you'll be displayed a page where you can manage your bundles.
+<summary>Manage Bundles</summary>
+</details>
+
+<details>
+**Manage Bundles**
+As you see in below image you can add multiple bundles for a base product.
+
+![image](https://github.com/user-attachments/assets/573609d6-94ec-4569-9578-00a00dedc13b)
+
+Name defines bundle name.
+Discount Amount defines the amount of discount to be applied on a bundle.
+Use Percentage defines if the discount amount is in percentage or not.
+Display Order defines the sequence in which bundles will be displayed to the customer on product details page.
+Store defines the store for which the bundle is to be displayed.
+Reference Products provides a link to add products to a bundle and displays number of products currently added to the bundle.
+Is Active defines whether a bundle is in active state or not. If not in active state, bundle won't be displayed to the customer on product details page.
 
 
+You can configure bundle products by clicking on the link that says Reference Products for a bundle.
+</details>
+
+<details>
+<summary>Bundled Products list</summary>
+You can view the list of products added to the bundle here. Display Order defines the sequence in which the products will be displayed inside a bundle on product details page. You can edit this field as per your choice. Base product will be displayed first and the remaining products - as per the display order.
+![image](https://github.com/user-attachments/assets/77990b2b-d41b-4453-a63f-9a2512d0becf)
+  
+You can add multiple product to the product list by clicking on the **Add product** button.
+Add Product
+
+<details>
+<summary>Add bundled Products</summary>
+  
+Add bundled products
+You can add one or more products to the bundle by checking the check-box(es) of the product(s) you want to add.
+![image](https://github.com/user-attachments/assets/bb3de732-0482-4e52-aa97-b8391a28cf08)
+
+You can filter the products by the fields provided above the list.
+
+If you cannot view your product in the list, please check if the product agrees to any one of the following conditions :
+
+It is already added to the bundle.
+It is the base product of the bundle.
+It is a grouped product.
+It is a gift card.
+Customer Enters Price is enabled for the product.
+If you are logged in as vendor, the product you are searching for is not your product.
+
+
+If none of the above conditions apply to your product, you can get help from our team. Please refer How to get help.
+</details>
+
+<details>
+<summary>Scenarios of use</summary>
+**Scenarios of use**
+This section will give you a scenarios of use for Bundled Discounts plug-in.
+
+<details>
+<summary>Display bundle list</summary>
+Display Bundle List
+As you see in below image you can add bundle to the cart by clicking on ADD TO CART bundle below your choice of bundle. You can add multiple or same bundles to the cart more than once.
+![image](https://github.com/user-attachments/assets/1d930ece-b629-47fd-a249-4ad46558ffea)
+
+When you click on ADD TO CART button and if any of your products linked with the bundle has any configurable property(attribute) to be selected, a pop-up window will appear asking you to select attributes of your choice.
+
+
+
+Attribute Pop-up
+
+
+
+You can view the discounts applied on the cart as well as on order summary pages.
+
+
+
+Bundle Discount Summary
+
+
+
+If you cannot view your bundles on product details page, please check if your bundle has products added to it, your bundle is in active state and also the widget for Bundled Discounts plug-in is enabled as shown below:
+
+Attribute Pop-up
+
+Bundle Discount Summary
+
+![image](https://github.com/user-attachments/assets/ff3b3668-d53c-4507-8550-1e6137065c55)
+
+If you still cannot view your bundles list on product details page, you can get help from our team. Please refer How to get help.
+</details>
+
+<details>
+<summary>Attribute Pop-up</summary>
+
+**Attribute Pop-up**
+
+As you see in below image you can set attributes as per your requirement.
+
+Any required attribute if left unset, will show you an error while all attributes set properly will add the bundle to the cart.
+
+![image](https://github.com/user-attachments/assets/2bb4624a-8d88-44d7-8775-8d577c8f9318)
+</details>
+
+<details>
+<summary>Bundle Discount Summary</summary>
+
+The discount applied on your order from the selected bundles will be shown on cart page, on Confirm Order page and on Order Details page(after placing the order) as below:
+
+![image](https://github.com/user-attachments/assets/eeabc2bd-af69-4970-b480-b595dd1decbb)
+</details>
+
+# **How to get help**
+
+How to get help
+Please drop us an email at support@nopaccelerate.com with issues you're facing.
+
+
+
+Please include below details when you're writing mail us.
+
+1. Your Order Number:
+
+2. Store's nopCommerce version:
+
+3. nopAccelerate Plus Plugin version:
+
+4. Store Admin credentials (if possible):
+
+5. Reproduce steps:
+
+6. Is there any customization in your store:
+
+
+
+It will helpful if you attach images/screen-cast, so it will helpfully for reproduce issue at our end.
+
+
+
+You can also email us steps for generating issue at our end. For that you need to follow below steps.
+
+Open “psr.exe” from “Run” in your windows operating system.
+Click on “Start Record” button and do your steps to produce your issue.
+Click “Stop Record” button once you complete recording steps. It will ask you to save a zip file.
+Send us saved zip file via email.
+
+# **Make Bundled discount compatible with RealOnePageCheckout plugin(nopTemplate).**
+**To make Bundled discount plugin compatible with RealOnePageCheckout Plugin of nopTemplate you need to follow few steps as below:**
+
+
+**Step:1**
+
+
+
+Add id="sub-total" In
+
+SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
+
+Go to first <tr> row section of table as shown in below image:
+
+![image](https://github.com/user-attachments/assets/3f250ac7-8497-415e-bc71-fd0376936097)
+
+**Step:2**
+Add id="real-onepage-total" In SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
+
+Go to <tr class="order-total"> </tr> section as shown in below image:
+![image](https://github.com/user-attachments/assets/65d66bbe-e493-4024-b8fb-0dff5942c37c)
+
+**Step:3**
+
+
+
+Go to SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml and add following script in end of the page.
+<p class="space"> 
+<script>
+
+
+
+    //ajax-call on SubTotal value change
+
+    var orderSubTotal = document.getElementById('sub-total');
+
+    var UpdateOrderSummary = {
+
+        Url: '@Url.Action("UpdateRealOnePageCheckoutOrderSummary", "BundledDiscounts")'
+
+    }
+
+    orderSubTotal.addEventListener('DOMSubtreeModified', UpdateOrderSection);
+
+
+
+    function UpdateOrderSection(e) {
+
+        $.ajax({
+
+            url: UpdateOrderSummary.Url,
+
+            type: "POST",
+
+            success: function (result) {
+
+                if (result.Success) {
+
+                    if (result.BundledDiscount == "") {
+
+                        $('.order-bundle-discount').hide();
+
+                    }
+
+                    else {
+
+                        // add class
+
+                        if (!$(".cart-total tbody tr:first").hasClass('sub-total-row')) {
+
+                            //adding class in Table first <tr> row(SubTotal)
+
+                            $(".cart-total tbody tr:first").addClass('sub-total-row');
+
+                        }
+
+
+
+                        //inject bundled  discount field after SubTotal
+
+                        var bundleHtml = "<tr class='order-bundle-discount'><td class='cart-total-left'>@T("Nop.Plugin.XcellenceIt.BundledDiscounts.Totals.BundleDiscount"):</label >" +
+
+                            "</td><td class='cart-total-right'>" +
+
+                            "<span id='bundled-discount-amount' class='value-summary'>-" + result.BundledDiscount + "</span>" +
+
+                            "</td></tr>";
+
+                        $(".order-bundle-discount").remove();
+
+                        $('.sub-total-row').after(bundleHtml);
+
+
+
+                        $('.order-bundle-discount').show();
+
+                    }
+
+                    if ($('#real-onepage-total') != null) {
+
+                        $('#real-onepage-total').html(result.OrderTotal);
+
+                    }
+
+                }
+
+            }
+
+        });
+
+    }
+
+</script>
+</p>
