@@ -336,8 +336,6 @@ This page contains version history information about plug-in. You can directly g
 1. Upgrade plugin to nopCommerce 4.20.
 2. Core DLL updated with version 3.0.0.
 </details>
-
-<details><summary>Getting Started</summary>
   
 **Getting Started**
 
@@ -379,7 +377,6 @@ You can choose to delete bundle related data from the database when you un-insta
 **Scenarios of use**
 
 This section will give you a scenarios of use for Bundled Discounts plug-in.
-</details>
 </details>
 
 # **How to get help**
