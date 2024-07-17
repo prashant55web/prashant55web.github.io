@@ -395,7 +395,7 @@ You can view the list of products added to the bundle here. "Display Order" defi
 
 You can add multiple product to the product list by clicking on the Add product button.
 
-<details><summary>Add Product</summary>
+<details><summary>Add Bundled Products</summary>
 
 You can add one or more products to the bundle by checking the check-box(es) of the product(s) you want to add.
 
@@ -422,7 +422,9 @@ If you cannot view Manage bundles tab on Product Edit page, please check if the 
 * It is a group product.
 * It is a gift card.
 * Customer Enters Price is enabled for the product.
-* If none of the above conditions apply to your product, you can get help from our team.
+* If none of the above conditions apply to your product, you can get help from our team. Please refer How to get help.
+  
+</details>
 
 <details>
 <summary>Scenarios of use</summary>
