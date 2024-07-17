@@ -340,25 +340,19 @@ This page contains version history information about plug-in. You can directly g
 **Getting Started**
 
 This section will guide you to plug-in installation steps, configuration and how to use plug-in.
-<details>
-<summary>Installation & License</summary>
 
-**Installation & License**
+<details><summary>Installation & License</summary>
 
 Download plug-in object code and put it at your plug-ins folder then follow nopCommerce standard plug-in installation procedure to install plug-in.   Bundled Discounts plug-in is available under “Promotions” group on local plug-ins page. Once plug-in is installed go to your nopCommerce admin panel, and go to **Configuration → Plug-ins → Local plug-ins → Bundled Discounts plug-in.** It will ask you to enter your license key as shown in figure below, enter license key which you received on your registered email after purchasing this plug-in from our website.
 
 ![image](https://github.com/user-attachments/assets/7f420da5-52e5-40e1-8222-343ddec73fe2)
 </details>
 
-<details>
-<summary>Configuration</summary>
-
-**Configuration**
+<details><summary>Configuration</summary>
 
 This section will guide you for how to configure plug-in.
 
-<summary>General Tab Configuration</summary>
-
+<details><summary>General Tab Configuration</summary>
 
 You cannot use plug-in functionality unless you enable it.
 
@@ -371,12 +365,110 @@ You can choose to delete bundle related data from the database when you un-insta
 
 </details>
 
+<details><summary>Bundle Configuration</summary></details>
+
+When you open product edit page, you'll see Manage Bundles tab as shown below.
+
+![image](https://github.com/user-attachments/assets/ac4befd4-8454-4987-9428-2eb610c63877)
+
+When you click on the tab, you'll be displayed a page where you can manage your bundles.
+
+<details><summary>Manage Bundles</summary>
+
+As you see in below image you can add multiple bundles for a base product.
+
+![image](https://github.com/user-attachments/assets/01681a5c-32db-4871-826d-c3bd7f6235a2)
+
+* Name defines bundle name.
+* Discount Amount defines the amount of discount to be applied on a bundle.
+* Use Percentage defines if the discount amount is in percentage or not.
+* Display Order defines the sequence in which bundles will be displayed to the customer on product details page.
+* Store defines the store for which the bundle is to be displayed.
+* Reference Products provides a link to add products to a bundle and displays number of products currently added to the bundle.
+* Is Active defines whether a bundle is in active state or not. If not in active state, bundle won't be displayed to the customer on product details page.
+
+<details><summary>Bundled Products</summary>
+
+You can view the list of products added to the bundle here. "Display Order" defines the sequence in which the products will be displayed inside a bundle on product details page. You can edit this field as per your choice. Base product will be displayed first and the remaining products - as per the display order.
+
+![image](https://github.com/user-attachments/assets/f05717b4-f266-4623-94be-d737f056dbe2)
+
+You can add multiple product to the product list by clicking on the Add product button.
+
+<details><summary>Add Product</summary>
+
+You can add one or more products to the bundle by checking the check-box(es) of the product(s) you want to add.
+
+![image](https://github.com/user-attachments/assets/8ecff19e-55ee-44cb-9805-f161d1a217c4)
+
+You can filter the products by the fields provided above the list.
+
+If you cannot view your product in the list, please check if the product agrees to any one of the following conditions :
+
+* It is already added to the bundle.
+* It is the base product of the bundle.
+* It is a grouped product.
+* It is a gift card.
+* Customer Enters Price is enabled for the product.
+* If you are logged in as vendor, the product you are searching for is not your product.
+
+If none of the above conditions apply to your product, you can get help from our team.Please refer How to get help.
+
+</details>
+</details>
+</details>
+
+If you cannot view Manage bundles tab on Product Edit page, please check if the product agrees to any one of the following conditions :
+* It is a group product.
+* It is a gift card.
+* Customer Enters Price is enabled for the product.
+* If none of the above conditions apply to your product, you can get help from our team.
+
 <details>
 <summary>Scenarios of use</summary>
 
-**Scenarios of use**
-
 This section will give you a scenarios of use for Bundled Discounts plug-in.
+<details><summary>Display Bundle List</summary>
+
+As you see in below image you can add bundle to the cart by clicking on ADD TO CART bundle below your choice of bundle. You can add multiple or same bundles to the cart more than once.
+
+![image](https://github.com/user-attachments/assets/6544d5f4-1f68-45a6-81e3-af395f4e3523)
+
+When you click on ADD TO CART button and if any of your products linked with the bundle has any configurable property(attribute) to be selected, a pop-up window will appear asking you to select attributes of your choice.
+
+Attribute Pop-up
+
+You can view the discounts applied on the cart as well as on order summary pages.
+
+Bundle Discount Summary
+
+If you cannot view your bundles on product details page, please check if your bundle has products added to it, your bundle is in active state and also the widget for Bundled Discounts plug-in is enabled as shown below:
+
+![image](https://github.com/user-attachments/assets/7db74aa3-4235-44a4-881c-efbb169727f2)
+
+If you still cannot view your bundles list on product details page, you can get help from our team. Please refer How to get help.
+
+</details>
+
+<details><summary>Attribute Pop-up</summary>
+  
+As you see in below image you can set attributes as per your requirement.
+Any required attribute if left unset, will show you an error while all attributes set properly will add the bundle to the cart.
+
+![image](https://github.com/user-attachments/assets/6cf916bc-d33c-4e00-b7dc-2808166186e4)
+
+</details>
+
+<details><summary>Bundle Discount Summary</summary>
+
+The discount applied on your order from the selected bundles will be shown on cart page, on Confirm Order page and on Order Details page(after placing the order) as below:
+
+![image](https://github.com/user-attachments/assets/7ebe9bd4-53db-4410-8934-3453f3755315)
+![image](https://github.com/user-attachments/assets/ef8009c8-8207-42ee-b973-133711b88c4f)
+![image](https://github.com/user-attachments/assets/b370b583-c032-4e8e-869b-c90694e0a1ca)
+  
+</details>
+
 </details>
 
 # **How to get help**
