@@ -572,8 +572,6 @@ If none of the above conditions apply to your product, you can get help from our
 
 **Scenarios of use**
 
-
-</details>
 This section will give you a scenarios of use for Bundled Discounts plug-in.
 </details>
 <details>
