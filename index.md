@@ -511,7 +511,7 @@ When you open product edit page, you'll see Manage Bundles tab as shown below.
 ![image](https://github.com/user-attachments/assets/a3137cec-9c61-4ff7-89b4-c4da2ce2533b)
 
 When you click on the tab, you'll be displayed a page where you can manage your bundles.
-
+</details>
 
 <details>
 <summary>Manage Bundles</summary>
@@ -568,7 +568,6 @@ If you are logged in as vendor, the product you are searching for is not your pr
 If none of the above conditions apply to your product, you can get help from our team. Please refer How to get help.
 </details>
 
-#
 <details>
 <summary>Scenarios of use</summary>
 
